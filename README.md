@@ -6,3 +6,5 @@ Basically an example in which I use promises in a simple and applicable way. In 
 ## **Running examples**
 
 For all, just add node (If you have it installed) plus the name of the file.
+###### Example:
+**node message.js**
